@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "NibblesMimic-1",
+            "duration": 6
+        },
+        {
+            "id": "NibblesMimic-2",
+            "duration": 5.333333
+        },
+        {
+            "id": "NibblesMimic-3",
+            "duration": 5.333333
+        },
+        {
+            "id": "NibblesMimic-4",
+            "duration": 4.266667
+        },
+        {
+            "id": "NibblesMimic-5",
+            "duration": 3.2
+        }
+    ],
+    "tags": []
+}

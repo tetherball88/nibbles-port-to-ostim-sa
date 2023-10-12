@@ -1,0 +1,49 @@
+{
+    "name": "Nibbles Table Fuck",
+    "modpack": "NibblesAnimations",
+    "length": 5.8,
+    "destination": "NibblesTablefuck-4",
+    "speeds": [
+        {
+            "animation": "NibblesTablefuck_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "nibbles",
+        "transition"
+    ]
+}

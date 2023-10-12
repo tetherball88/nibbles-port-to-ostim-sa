@@ -1,0 +1,55 @@
+{
+    "name": "Nibbles Standing Fuck 4",
+    "modpack": "NibblesAnimations",
+    "length": 7,
+    "destination": "NibblesStandingfuck4-4",
+    "speeds": [
+        {
+            "animation": "NibblesStandingfuck4_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "spreadlegs",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "transition"
+    ]
+}

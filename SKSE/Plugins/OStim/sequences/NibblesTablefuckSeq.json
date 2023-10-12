@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "NibblesTablefuck-1",
+            "duration": 6
+        },
+        {
+            "id": "NibblesTablefuck-2",
+            "duration": 5
+        },
+        {
+            "id": "NibblesTablefuck-3",
+            "duration": 5.333333
+        },
+        {
+            "id": "NibblesTablefuck-4",
+            "duration": 6
+        },
+        {
+            "id": "NibblesTablefuck-5",
+            "duration": 5.8
+        }
+    ],
+    "tags": []
+}

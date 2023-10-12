@@ -1,0 +1,47 @@
+{
+    "name": "Nibbles Tentacle Doggystyle",
+    "modpack": "NibblesAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "NibblesObjSoloFHub",
+            "description": "Nibbles Tentacle Doggystyle",
+            "icon": "OStim/symbols/gender_mf"
+        },
+        {
+            "destination": "NibblesTentacledoggy-2",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "NibblesObjSoloFHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "NibblesTentacledoggy_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "grindingobject",
+            "actor": 0
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "nibbles"
+    ]
+}

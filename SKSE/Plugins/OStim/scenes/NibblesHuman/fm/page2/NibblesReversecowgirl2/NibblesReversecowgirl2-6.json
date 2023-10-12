@@ -1,0 +1,48 @@
+{
+    "name": "Nibbles Reverse Cowgirl 2",
+    "modpack": "NibblesAnimations",
+    "length": 6,
+    "destination": "NibblesReversecowgirl2-5",
+    "speeds": [
+        {
+            "animation": "NibblesReversecowgirl2_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "onbottom",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "ontop",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "reversecowgirl",
+        "transition"
+    ]
+}

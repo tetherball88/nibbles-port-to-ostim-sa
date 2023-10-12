@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "NibblesMissionary2-1",
+            "duration": 4.8
+        },
+        {
+            "id": "NibblesMissionary2-2",
+            "duration": 5.2
+        },
+        {
+            "id": "NibblesMissionary2-3",
+            "duration": 5.333333
+        },
+        {
+            "id": "NibblesMissionary2-4",
+            "duration": 10.666667
+        },
+        {
+            "id": "NibblesMissionary2-5",
+            "duration": 29.333334
+        }
+    ],
+    "tags": []
+}

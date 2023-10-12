@@ -1,0 +1,34 @@
+{
+    "name": "Nibbles Fingering",
+    "modpack": "NibblesAnimations",
+    "length": 12,
+    "destination": "NibblesFingeringn-4",
+    "speeds": [
+        {
+            "animation": "NibblesFingeringn_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "spreadlegs",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "rubbingclitoris",
+            "actor": 0,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "transition"
+    ]
+}

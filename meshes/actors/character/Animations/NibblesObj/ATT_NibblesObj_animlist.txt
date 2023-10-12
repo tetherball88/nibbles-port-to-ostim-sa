@@ -1,0 +1,60 @@
+b -Tn NibblesSpanking_1_1 ..\NibblesObj\fmPos\NibblesSpanking\NibblesSpanking_1_1.hkx  
+b -Tn NibblesSpanking_2_1 ..\NibblesObj\fmPos\NibblesSpanking\NibblesSpanking_2_1.hkx  
+b -Tn NibblesSpanking_3_1 ..\NibblesObj\fmPos\NibblesSpanking\NibblesSpanking_3_1.hkx  
+b -Tn NibblesSpanking_4_1 ..\NibblesObj\fmPos\NibblesSpanking\NibblesSpanking_4_1.hkx  
+b -Tn NibblesSpanking_5_1 ..\NibblesObj\fmPos\NibblesSpanking\NibblesSpanking_5_1.hkx  
+b -o NibblesSpanking_1_0 ..\NibblesObj\fmPos\NibblesSpanking\NibblesSpanking_1_0.hkx Chair01 Paddle01 
+b -o NibblesSpanking_2_0 ..\NibblesObj\fmPos\NibblesSpanking\NibblesSpanking_2_0.hkx Chair01 Paddle01 
+b -o NibblesSpanking_3_0 ..\NibblesObj\fmPos\NibblesSpanking\NibblesSpanking_3_0.hkx Chair01 Paddle01 
+b -o NibblesSpanking_4_0 ..\NibblesObj\fmPos\NibblesSpanking\NibblesSpanking_4_0.hkx Chair01 Paddle01 
+b -o NibblesSpanking_5_0 ..\NibblesObj\fmPos\NibblesSpanking\NibblesSpanking_5_0.hkx Chair01 Paddle01 
+b -Tn NibblesSpankingchair_1_1 ..\NibblesObj\fmPos\NibblesSpankingchair\NibblesSpankingchair_1_1.hkx  
+b -Tn NibblesSpankingchair_2_1 ..\NibblesObj\fmPos\NibblesSpankingchair\NibblesSpankingchair_2_1.hkx  
+b -Tn NibblesSpankingchair_3_1 ..\NibblesObj\fmPos\NibblesSpankingchair\NibblesSpankingchair_3_1.hkx  
+b -Tn NibblesSpankingchair_4_1 ..\NibblesObj\fmPos\NibblesSpankingchair\NibblesSpankingchair_4_1.hkx  
+b -o NibblesSpankingchair_1_0 ..\NibblesObj\fmPos\NibblesSpankingchair\NibblesSpankingchair_1_0.hkx Chair01 
+b -o NibblesSpankingchair_2_0 ..\NibblesObj\fmPos\NibblesSpankingchair\NibblesSpankingchair_2_0.hkx Chair01 
+b -o NibblesSpankingchair_3_0 ..\NibblesObj\fmPos\NibblesSpankingchair\NibblesSpankingchair_3_0.hkx Chair01 
+b -o NibblesSpankingchair_4_0 ..\NibblesObj\fmPos\NibblesSpankingchair\NibblesSpankingchair_4_0.hkx Chair01 
+b -Tn NibblesTablefuck_1_1 ..\NibblesObj\fmPos\NibblesTablefuck\NibblesTablefuck_1_1.hkx  
+b -Tn NibblesTablefuck_2_1 ..\NibblesObj\fmPos\NibblesTablefuck\NibblesTablefuck_2_1.hkx  
+b -Tn NibblesTablefuck_3_1 ..\NibblesObj\fmPos\NibblesTablefuck\NibblesTablefuck_3_1.hkx  
+b -Tn NibblesTablefuck_4_1 ..\NibblesObj\fmPos\NibblesTablefuck\NibblesTablefuck_4_1.hkx  
+b -Tn NibblesTablefuck_5_1 ..\NibblesObj\fmPos\NibblesTablefuck\NibblesTablefuck_5_1.hkx  
+b -o NibblesTablefuck_1_0 ..\NibblesObj\fmPos\NibblesTablefuck\NibblesTablefuck_1_0.hkx Table01 
+b -o NibblesTablefuck_2_0 ..\NibblesObj\fmPos\NibblesTablefuck\NibblesTablefuck_2_0.hkx Table01 
+b -o NibblesTablefuck_3_0 ..\NibblesObj\fmPos\NibblesTablefuck\NibblesTablefuck_3_0.hkx Table01 
+b -o NibblesTablefuck_4_0 ..\NibblesObj\fmPos\NibblesTablefuck\NibblesTablefuck_4_0.hkx Table01 
+b -o NibblesTablefuck_5_0 ..\NibblesObj\fmPos\NibblesTablefuck\NibblesTablefuck_5_0.hkx Table01 
+b -o NibblesTablestandingbehind_1_1 ..\NibblesObj\fmPos\NibblesTablestandingbehind\NibblesTablestandingbehind_1_1.hkx Nibblesnobleendtable01 
+b -o NibblesTablestandingbehind_2_1 ..\NibblesObj\fmPos\NibblesTablestandingbehind\NibblesTablestandingbehind_2_1.hkx Nibblesnobleendtable01 
+b -o NibblesTablestandingbehind_3_1 ..\NibblesObj\fmPos\NibblesTablestandingbehind\NibblesTablestandingbehind_3_1.hkx Nibblesnobleendtable01 
+b -o NibblesTablestandingbehind_4_1 ..\NibblesObj\fmPos\NibblesTablestandingbehind\NibblesTablestandingbehind_4_1.hkx Nibblesnobleendtable01 
+b -o NibblesTablestandingbehind_5_1 ..\NibblesObj\fmPos\NibblesTablestandingbehind\NibblesTablestandingbehind_5_1.hkx Nibblesnobleendtable01 
+b -Tn NibblesTablestandingbehind_1_0 ..\NibblesObj\fmPos\NibblesTablestandingbehind\NibblesTablestandingbehind_1_0.hkx  
+b -Tn NibblesTablestandingbehind_2_0 ..\NibblesObj\fmPos\NibblesTablestandingbehind\NibblesTablestandingbehind_2_0.hkx  
+b -Tn NibblesTablestandingbehind_3_0 ..\NibblesObj\fmPos\NibblesTablestandingbehind\NibblesTablestandingbehind_3_0.hkx  
+b -Tn NibblesTablestandingbehind_4_0 ..\NibblesObj\fmPos\NibblesTablestandingbehind\NibblesTablestandingbehind_4_0.hkx  
+b -Tn NibblesTablestandingbehind_5_0 ..\NibblesObj\fmPos\NibblesTablestandingbehind\NibblesTablestandingbehind_5_0.hkx  
+b -o NibblesTablestandingfront_1_1 ..\NibblesObj\fmPos\NibblesTablestandingfront\NibblesTablestandingfront_1_1.hkx Nibblesnobleendtable02 
+b -o NibblesTablestandingfront_2_1 ..\NibblesObj\fmPos\NibblesTablestandingfront\NibblesTablestandingfront_2_1.hkx Nibblesnobleendtable02 
+b -o NibblesTablestandingfront_3_1 ..\NibblesObj\fmPos\NibblesTablestandingfront\NibblesTablestandingfront_3_1.hkx Nibblesnobleendtable02 
+b -o NibblesTablestandingfront_4_1 ..\NibblesObj\fmPos\NibblesTablestandingfront\NibblesTablestandingfront_4_1.hkx Nibblesnobleendtable02 
+b -o NibblesTablestandingfront_5_1 ..\NibblesObj\fmPos\NibblesTablestandingfront\NibblesTablestandingfront_5_1.hkx Nibblesnobleendtable02 
+b -Tn NibblesTablestandingfront_1_0 ..\NibblesObj\fmPos\NibblesTablestandingfront\NibblesTablestandingfront_1_0.hkx  
+b -Tn NibblesTablestandingfront_2_0 ..\NibblesObj\fmPos\NibblesTablestandingfront\NibblesTablestandingfront_2_0.hkx  
+b -Tn NibblesTablestandingfront_3_0 ..\NibblesObj\fmPos\NibblesTablestandingfront\NibblesTablestandingfront_3_0.hkx  
+b -Tn NibblesTablestandingfront_4_0 ..\NibblesObj\fmPos\NibblesTablestandingfront\NibblesTablestandingfront_4_0.hkx  
+b -Tn NibblesTablestandingfront_5_0 ..\NibblesObj\fmPos\NibblesTablestandingfront\NibblesTablestandingfront_5_0.hkx  
+b -o NibblesWorkbench_1_1 ..\NibblesObj\fmPos\NibblesWorkbench\NibblesWorkbench_1_1.hkx Workbench1 
+b -o NibblesWorkbench_2_1 ..\NibblesObj\fmPos\NibblesWorkbench\NibblesWorkbench_2_1.hkx Workbench1 
+b -o NibblesWorkbench_3_1 ..\NibblesObj\fmPos\NibblesWorkbench\NibblesWorkbench_3_1.hkx Workbench1 
+b -o NibblesWorkbench_4_1 ..\NibblesObj\fmPos\NibblesWorkbench\NibblesWorkbench_4_1.hkx Workbench1 
+b -o NibblesWorkbench_5_1 ..\NibblesObj\fmPos\NibblesWorkbench\NibblesWorkbench_5_1.hkx Workbench1 
+b -o NibblesWorkbench_6_1 ..\NibblesObj\fmPos\NibblesWorkbench\NibblesWorkbench_6_1.hkx Workbench1 
+b -Tn NibblesWorkbench_1_0 ..\NibblesObj\fmPos\NibblesWorkbench\NibblesWorkbench_1_0.hkx  
+b -Tn NibblesWorkbench_2_0 ..\NibblesObj\fmPos\NibblesWorkbench\NibblesWorkbench_2_0.hkx  
+b -Tn NibblesWorkbench_3_0 ..\NibblesObj\fmPos\NibblesWorkbench\NibblesWorkbench_3_0.hkx  
+b -Tn NibblesWorkbench_4_0 ..\NibblesObj\fmPos\NibblesWorkbench\NibblesWorkbench_4_0.hkx  
+b -Tn NibblesWorkbench_5_0 ..\NibblesObj\fmPos\NibblesWorkbench\NibblesWorkbench_5_0.hkx  
+b -Tn NibblesWorkbench_6_0 ..\NibblesObj\fmPos\NibblesWorkbench\NibblesWorkbench_6_0.hkx  

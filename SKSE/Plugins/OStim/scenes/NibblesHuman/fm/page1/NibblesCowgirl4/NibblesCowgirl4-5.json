@@ -1,0 +1,52 @@
+{
+    "name": "Nibbles Cowgirl 4",
+    "modpack": "NibblesAnimations",
+    "length": 5.933333,
+    "destination": "NibblesCowgirl4-4",
+    "speeds": [
+        {
+            "animation": "NibblesCowgirl4_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "onbottom",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "sitting",
+                "ontop",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        },
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "cowgirl",
+        "transition"
+    ]
+}

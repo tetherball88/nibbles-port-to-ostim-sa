@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "NibblesFingeringn-1",
+            "duration": 4.266667
+        },
+        {
+            "id": "NibblesFingeringn-2",
+            "duration": 5
+        },
+        {
+            "id": "NibblesFingeringn-3",
+            "duration": 4.4
+        },
+        {
+            "id": "NibblesFingeringn-4",
+            "duration": 5.6
+        },
+        {
+            "id": "NibblesFingeringn-5",
+            "duration": 29
+        }
+    ],
+    "tags": []
+}

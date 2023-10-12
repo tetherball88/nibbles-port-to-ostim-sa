@@ -1,0 +1,55 @@
+{
+    "name": "Nibbles Fingering",
+    "modpack": "NibblesAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "NibblesFingeringn-5",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "NibblesFingeringn-3",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "NibblesSoloFHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "NibblesFingeringn_4"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "spreadlegs"
+            ],
+            "autoTransitions": {
+                "climax": "NibblesFingeringn-5"
+            }
+        }
+    ],
+    "actions": [
+        {
+            "type": "femalemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "rubbingclitoris",
+            "actor": 0,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "nibbles"
+    ]
+}

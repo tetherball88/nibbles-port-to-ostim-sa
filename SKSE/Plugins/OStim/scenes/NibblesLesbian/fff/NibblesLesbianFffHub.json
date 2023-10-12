@@ -1,0 +1,50 @@
+{
+    "name": "NibblesLesbianFffHub",
+    "modpack": "NibblesLesbian",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStim3PStandingFFF"
+        }
+    ],
+    "navigations": [
+        {
+            "origin": "OStim3PStandingFFF",
+            "description": "NibblesLesbianFffHub"
+        },
+        {
+            "destination": "OStim3PStandingFFF",
+            "description": "Return",
+            "icon": "OStim/symbols/return",
+            "priority": -1000
+        }
+    ],
+    "tags": [
+        "idle",
+        "intro"
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "noRandomSelection": true
+}

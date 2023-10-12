@@ -1,0 +1,21 @@
+b -o NibblesChairdildo_1_0 ..\NibblesObjSolo\fPos\NibblesChairdildo\NibblesChairdildo_1_0.hkx Dildo01 Chair01 
+b -o NibblesChairdildo_2_0 ..\NibblesObjSolo\fPos\NibblesChairdildo\NibblesChairdildo_2_0.hkx Dildo01 Chair01 
+b -o NibblesChairdildo_3_0 ..\NibblesObjSolo\fPos\NibblesChairdildo\NibblesChairdildo_3_0.hkx Dildo01 Chair01 
+b -o NibblesChairdildo_4_0 ..\NibblesObjSolo\fPos\NibblesChairdildo\NibblesChairdildo_4_0.hkx Dildo01 Chair01 
+b -o NibblesChairdildo_5_0 ..\NibblesObjSolo\fPos\NibblesChairdildo\NibblesChairdildo_5_0.hkx Dildo01 Chair01 
+b -o NibblesDrunkmasturbation_1_0 ..\NibblesObjSolo\fPos\NibblesDrunkmasturbation\NibblesDrunkmasturbation_1_0.hkx StaticBottles AnimatedBottle1 
+b -o NibblesDrunkmasturbation_2_0 ..\NibblesObjSolo\fPos\NibblesDrunkmasturbation\NibblesDrunkmasturbation_2_0.hkx StaticBottles AnimatedBottle1 
+b -o NibblesDrunkmasturbation_3_0 ..\NibblesObjSolo\fPos\NibblesDrunkmasturbation\NibblesDrunkmasturbation_3_0.hkx StaticBottles AnimatedBottle1 
+b -o NibblesDrunkmasturbation_4_0 ..\NibblesObjSolo\fPos\NibblesDrunkmasturbation\NibblesDrunkmasturbation_4_0.hkx StaticBottles AnimatedBottle2 
+b -o NibblesDrunkmasturbation_5_0 ..\NibblesObjSolo\fPos\NibblesDrunkmasturbation\NibblesDrunkmasturbation_5_0.hkx StaticBottles AnimatedBottle2 
+b -o NibblesDrunkmasturbation_6_0 ..\NibblesObjSolo\fPos\NibblesDrunkmasturbation\NibblesDrunkmasturbation_6_0.hkx StaticBottles AnimatedBottle2 
+b -o NibblesMimic_1_0 ..\NibblesObjSolo\fPos\NibblesMimic\NibblesMimic_1_0.hkx ChestUpper1 ChestLower1 Tentacle11 
+b -o NibblesMimic_2_0 ..\NibblesObjSolo\fPos\NibblesMimic\NibblesMimic_2_0.hkx ChestUpper2 ChestLower2 Tentacle21 
+b -o NibblesMimic_3_0 ..\NibblesObjSolo\fPos\NibblesMimic\NibblesMimic_3_0.hkx ChestUpper3 ChestLower3 Tentacle31 Tentacle32 
+b -o NibblesMimic_4_0 ..\NibblesObjSolo\fPos\NibblesMimic\NibblesMimic_4_0.hkx ChestUpper4 ChestLower4 Tentacle41 Tentacle42 Tentacle43 
+b -o NibblesMimic_5_0 ..\NibblesObjSolo\fPos\NibblesMimic\NibblesMimic_5_0.hkx ChestUpper5 ChestLower5 Tentacle51 Tentacle52 Tentacle53 
+b -o NibblesTentacledoggy_1_0 ..\NibblesObjSolo\fPos\NibblesTentacledoggy\NibblesTentacledoggy_1_0.hkx NibblesFloraMushroom01Small TentacleDoggy1 
+b -o NibblesTentacledoggy_2_0 ..\NibblesObjSolo\fPos\NibblesTentacledoggy\NibblesTentacledoggy_2_0.hkx NibblesFloraMushroom01Small TentacleDoggy2 
+b -o NibblesTentacledoggy_3_0 ..\NibblesObjSolo\fPos\NibblesTentacledoggy\NibblesTentacledoggy_3_0.hkx NibblesFloraMushroom01Small TentacleDoggy3 
+b -o NibblesTentacledoggy_4_0 ..\NibblesObjSolo\fPos\NibblesTentacledoggy\NibblesTentacledoggy_4_0.hkx NibblesFloraMushroom01Small TentacleDoggy4 
+b -o NibblesTentacledoggy_5_0 ..\NibblesObjSolo\fPos\NibblesTentacledoggy\NibblesTentacledoggy_5_0.hkx NibblesFloraMushroom01Small TentacleDoggy5 

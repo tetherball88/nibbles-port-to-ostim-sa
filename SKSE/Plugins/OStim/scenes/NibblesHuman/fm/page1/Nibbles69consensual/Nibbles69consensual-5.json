@@ -1,0 +1,51 @@
+{
+    "name": "Nibbles 69 Consensual",
+    "modpack": "NibblesAnimations",
+    "length": 5.666667,
+    "destination": "Nibbles69consensual-4",
+    "speeds": [
+        {
+            "animation": "Nibbles69consensual_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingfront",
+                "ontop",
+                "facingaway"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "blowjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "sixtynine",
+        "69",
+        "transition"
+    ]
+}

@@ -1,0 +1,5 @@
+b -Tn NibblesFingeringn_1_0 ..\NibblesSolo\fPos\NibblesFingeringn\NibblesFingeringn_1_0.hkx  
+b -Tn NibblesFingeringn_2_0 ..\NibblesSolo\fPos\NibblesFingeringn\NibblesFingeringn_2_0.hkx  
+b -Tn NibblesFingeringn_3_0 ..\NibblesSolo\fPos\NibblesFingeringn\NibblesFingeringn_3_0.hkx  
+b -Tn NibblesFingeringn_4_0 ..\NibblesSolo\fPos\NibblesFingeringn\NibblesFingeringn_4_0.hkx  
+b -Tn NibblesFingeringn_5_0 ..\NibblesSolo\fPos\NibblesFingeringn\NibblesFingeringn_5_0.hkx  

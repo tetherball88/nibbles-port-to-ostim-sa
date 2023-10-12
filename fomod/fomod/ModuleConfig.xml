@@ -1,0 +1,157 @@
+<!-- Created with FOMOD Creation Tool 1.7.0.37 [http://www.nexusmods.com/fallout4/mods/6821] --> 
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd"> 
+	<moduleName>Nibbles' animations for Ostim Standalone</moduleName> 
+	<requiredInstallFiles> 
+		<folder source="02 ostim additional actions" destination="" /> 
+	</requiredInstallFiles> 
+	<installSteps order="Explicit"> 
+		<installStep name="Choose animations modules"> 
+			<optionalFileGroups order="Explicit"> 
+				<group name="Modules" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Human"> 
+							<description>~114 animation scenes;&#13;&#10;
+Designed for heterosexual actors&#13;&#10;
+Safe to play in Ostim's auto mode;&#13;&#10;
+Animations designed for these set of female and male actors: FM</description> 
+							<image path="fomod\pictures\nibbles_human.jpg" /> 
+							<files> 
+								<folder source="NibblesHuman" destination="" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Group"> 
+							<description>~11 animation scenes;&#13;&#10;
+Designed for heterosexual actors&#13;&#10;
+Animations designed for these set of female and male actors: FMM</description> 
+							<image path="fomod\pictures\nibbles_group.jpg" /> 
+							<files> 
+								<folder source="NibblesGroup" destination="" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Lesbian"> 
+							<description>~13 animation scenes;&#13;&#10;
+Designed for same gender female actors&#13;&#10;
+Safe to play in Ostim's auto mode;&#13;&#10;
+Animations designed for these set of female actors: FF and FFF</description> 
+							<image path="fomod\pictures\nibbles_lesbian.jpg" /> 
+							<files> 
+								<folder source="NibblesLesbian" destination="" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Solo"> 
+							<description>~6 animation scenes;&#13;&#10;
+Designed for single female actor&#13;&#10;
+Safe to play in Ostim's auto mode;&#13;&#10;
+</description> 
+							<image path="fomod\pictures\nibbles_solo.jpg" /> 
+							<files> 
+								<folder source="NibblesSolo" destination="" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Obj"> 
+							<description>~31 animation scenes;&#13;&#10;
+Designed for heterosexual actors&#13;&#10;
+Animations are excluded from Ostim's auto mode;&#13;&#10;
+Animations designed for these set of female and male actors: FM</description> 
+							<image path="fomod\pictures\nibbles_obj.jpg" /> 
+							<conditionFlags> 
+								<flag name="RequiresObjects">On</flag> 
+							</conditionFlags> 
+							<files> 
+								<folder source="NibblesObj" destination="" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<dependencyType> 
+									<defaultType name="Optional"/> 
+									<patterns> 
+										<pattern> 
+											<dependencies operator="And"> 
+												<fileDependency file="NibblesAnimObjects.esp" state="Active"/> 
+											</dependencies> 
+											<type name="Optional"/> 
+										</pattern> 
+									</patterns> 
+								</dependencyType> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="ObjLesbian"> 
+							<description>~7 animation scenes;&#13;&#10;
+Designed for same gender female actors&#13;&#10;
+Animations are excluded from Ostim's auto mode;&#13;&#10;
+Animations designed for these set of female and male actors: FF</description> 
+							<image path="fomod\pictures\nibbles_lesbian_obj.jpg" /> 
+							<conditionFlags> 
+								<flag name="RequiresObjects">On</flag> 
+							</conditionFlags> 
+							<files> 
+								<folder source="NibblesObjLesbian" destination="" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<dependencyType> 
+									<defaultType name="Optional"/> 
+									<patterns> 
+										<pattern> 
+											<dependencies operator="And"> 
+												<fileDependency file="NibblesAnimObjects.esp" state="Active"/> 
+											</dependencies> 
+											<type name="Optional"/> 
+										</pattern> 
+									</patterns> 
+								</dependencyType> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="ObjSolo"> 
+							<description>~22 animation scenes;&#13;&#10;
+Designed for single female actor&#13;&#10;
+Animations are excluded from Ostim's auto mode;</description> 
+							<image path="fomod\pictures\nibbles_solo_obj.jpg" /> 
+							<conditionFlags> 
+								<flag name="RequiresObjects">On</flag> 
+							</conditionFlags> 
+							<files> 
+								<folder source="NibblesObjSolo" destination="" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<dependencyType> 
+									<defaultType name="Optional"/> 
+									<patterns> 
+										<pattern> 
+											<dependencies operator="And"> 
+												<fileDependency file="NibblesAnimObjects.esp" state="Active"/> 
+											</dependencies> 
+											<type name="Optional"/> 
+										</pattern> 
+									</patterns> 
+								</dependencyType> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+			</optionalFileGroups> 
+		</installStep> 
+	</installSteps> 
+	<conditionalFileInstalls> 
+		<patterns> 
+			<pattern> 
+				<dependencies operator="And"> 
+					<flagDependency flag="RequiresObjects" value="On"/> 
+				</dependencies> 
+				<files> 
+					<folder source="01 objects" destination="" priority="0" /> 
+				</files> 
+			</pattern> 
+		</patterns> 
+	</conditionalFileInstalls> 
+</config>

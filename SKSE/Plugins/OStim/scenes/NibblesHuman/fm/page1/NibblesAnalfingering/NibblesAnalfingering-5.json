@@ -1,0 +1,45 @@
+{
+    "name": "Nibbles Anal Fingering",
+    "modpack": "NibblesAnimations",
+    "length": 3,
+    "destination": "NibblesAnalfingering-4",
+    "speeds": [
+        {
+            "animation": "NibblesAnalfingering_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "sitting",
+                "onbottom"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingfront",
+                "ontop",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analfingering",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "transition"
+    ]
+}

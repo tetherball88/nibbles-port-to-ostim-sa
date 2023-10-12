@@ -1,0 +1,52 @@
+{
+    "name": "Nibbles Belly Flop 2",
+    "modpack": "NibblesAnimations",
+    "length": 7.4,
+    "destination": "NibblesBellyflop2-5",
+    "speeds": [
+        {
+            "animation": "NibblesBellyflop2_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingfront",
+                "ontop",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "facingaway",
+                "lyingfront",
+                "onbottom",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "prone",
+        "transition"
+    ]
+}

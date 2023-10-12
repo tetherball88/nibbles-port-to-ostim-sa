@@ -1,0 +1,37 @@
+{
+    "name": "Nibbles Mimic Trapped",
+    "modpack": "NibblesAnimations",
+    "length": 3.2,
+    "destination": "NibblesMimic-4",
+    "speeds": [
+        {
+            "animation": "NibblesMimic_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "mdildovaginal",
+            "actor": 0
+        },
+        {
+            "type": "mdildoanal",
+            "actor": 0
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "nibbles",
+        "transition"
+    ]
+}

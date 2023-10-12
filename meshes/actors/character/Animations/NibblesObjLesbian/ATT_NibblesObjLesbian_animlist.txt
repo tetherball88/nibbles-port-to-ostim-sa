@@ -1,0 +1,12 @@
+b -o NibblesLesbianhaycun_1_0 ..\NibblesObjLesbian\ffPos\NibblesLesbianhaycun\NibblesLesbianhaycun_1_0.hkx NibblesHaybale02 
+b -o NibblesLesbianhaycun_2_0 ..\NibblesObjLesbian\ffPos\NibblesLesbianhaycun\NibblesLesbianhaycun_2_0.hkx NibblesHaybale02 
+b -o NibblesLesbianhaycun_3_0 ..\NibblesObjLesbian\ffPos\NibblesLesbianhaycun\NibblesLesbianhaycun_3_0.hkx NibblesHaybale02 
+b -o NibblesLesbianhaycun_4_0 ..\NibblesObjLesbian\ffPos\NibblesLesbianhaycun\NibblesLesbianhaycun_4_0.hkx NibblesHaybale02 
+b -o NibblesLesbianhaycun_5_0 ..\NibblesObjLesbian\ffPos\NibblesLesbianhaycun\NibblesLesbianhaycun_5_0.hkx NibblesHaybale02 
+b -o NibblesLesbianhaycun_6_0 ..\NibblesObjLesbian\ffPos\NibblesLesbianhaycun\NibblesLesbianhaycun_6_0.hkx NibblesHaybale02 
+b -Tn NibblesLesbianhaycun_1_1 ..\NibblesObjLesbian\ffPos\NibblesLesbianhaycun\NibblesLesbianhaycun_1_1.hkx  
+b -Tn NibblesLesbianhaycun_2_1 ..\NibblesObjLesbian\ffPos\NibblesLesbianhaycun\NibblesLesbianhaycun_2_1.hkx  
+b -Tn NibblesLesbianhaycun_3_1 ..\NibblesObjLesbian\ffPos\NibblesLesbianhaycun\NibblesLesbianhaycun_3_1.hkx  
+b -Tn NibblesLesbianhaycun_4_1 ..\NibblesObjLesbian\ffPos\NibblesLesbianhaycun\NibblesLesbianhaycun_4_1.hkx  
+b -Tn NibblesLesbianhaycun_5_1 ..\NibblesObjLesbian\ffPos\NibblesLesbianhaycun\NibblesLesbianhaycun_5_1.hkx  
+b -Tn NibblesLesbianhaycun_6_1 ..\NibblesObjLesbian\ffPos\NibblesLesbianhaycun\NibblesLesbianhaycun_6_1.hkx  

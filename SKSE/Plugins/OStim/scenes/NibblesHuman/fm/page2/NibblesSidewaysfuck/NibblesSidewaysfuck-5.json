@@ -1,0 +1,54 @@
+{
+    "name": "Nibbles Sideways Fuck",
+    "modpack": "NibblesAnimations",
+    "length": 9.333333,
+    "destination": "NibblesSidewaysfuck-4",
+    "speeds": [
+        {
+            "animation": "NibblesSidewaysfuck_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingside",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingside",
+                "spreadlegs",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "rubbingclitoris",
+            "actor": 1,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "transition"
+    ]
+}

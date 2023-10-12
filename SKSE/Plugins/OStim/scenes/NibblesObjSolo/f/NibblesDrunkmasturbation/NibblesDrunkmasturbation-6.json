@@ -1,0 +1,38 @@
+{
+    "name": "Nibbles Drunk Masturbation",
+    "modpack": "NibblesAnimations",
+    "length": 7.2,
+    "destination": "NibblesDrunkmasturbation-5",
+    "speeds": [
+        {
+            "animation": "NibblesDrunkmasturbation_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingside",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "femalemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "rubbingclitoris",
+            "actor": 0,
+            "target": 0
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "nibbles",
+        "transition"
+    ]
+}

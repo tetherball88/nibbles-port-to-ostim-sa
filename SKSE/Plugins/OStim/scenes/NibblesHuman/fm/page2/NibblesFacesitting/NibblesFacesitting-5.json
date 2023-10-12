@@ -1,0 +1,51 @@
+{
+    "name": "Nibbles Face Sitting",
+    "modpack": "NibblesAnimations",
+    "length": 7.266667,
+    "destination": "NibblesFacesitting-4",
+    "speeds": [
+        {
+            "animation": "NibblesFacesitting_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "ontop",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "cunnilingus",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        },
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "facesitting",
+        "transition"
+    ]
+}

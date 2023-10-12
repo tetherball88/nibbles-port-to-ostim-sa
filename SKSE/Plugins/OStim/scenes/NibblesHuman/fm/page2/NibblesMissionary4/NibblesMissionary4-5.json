@@ -1,0 +1,49 @@
+{
+    "name": "Nibbles Missionary 4",
+    "modpack": "NibblesAnimations",
+    "length": 5.933333,
+    "destination": "NibblesMissionary4-4",
+    "speeds": [
+        {
+            "animation": "NibblesMissionary4_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "missionary",
+        "transition"
+    ]
+}
