@@ -1,0 +1,93 @@
+b -o NibblesAfChairdildo_1_0 ..\NibblesAdapted\fChairPos\NibblesAfChairdildo\NibblesAfChairdildo_1_0.hkx Dildo01 
+b -o NibblesAfChairdildo_2_0 ..\NibblesAdapted\fChairPos\NibblesAfChairdildo\NibblesAfChairdildo_2_0.hkx Dildo01 
+b -o NibblesAfChairdildo_3_0 ..\NibblesAdapted\fChairPos\NibblesAfChairdildo\NibblesAfChairdildo_3_0.hkx Dildo01 
+b -o NibblesAfChairdildo_4_0 ..\NibblesAdapted\fChairPos\NibblesAfChairdildo\NibblesAfChairdildo_4_0.hkx Dildo01 
+b -o NibblesAfChairdildo_5_0 ..\NibblesAdapted\fChairPos\NibblesAfChairdildo\NibblesAfChairdildo_5_0.hkx Dildo01 
+b -o NibblesAfDrunkmasturbation_1_0 ..\NibblesAdapted\fPos\NibblesAfDrunkmasturbation\NibblesAfDrunkmasturbation_1_0.hkx StaticBottles AnimatedBottle1 
+b -o NibblesAfDrunkmasturbation_2_0 ..\NibblesAdapted\fPos\NibblesAfDrunkmasturbation\NibblesAfDrunkmasturbation_2_0.hkx StaticBottles AnimatedBottle1 
+b -o NibblesAfDrunkmasturbation_3_0 ..\NibblesAdapted\fPos\NibblesAfDrunkmasturbation\NibblesAfDrunkmasturbation_3_0.hkx StaticBottles AnimatedBottle1 
+b -o NibblesAfDrunkmasturbation_4_0 ..\NibblesAdapted\fPos\NibblesAfDrunkmasturbation\NibblesAfDrunkmasturbation_4_0.hkx StaticBottles AnimatedBottle2 
+b -o NibblesAfDrunkmasturbation_5_0 ..\NibblesAdapted\fPos\NibblesAfDrunkmasturbation\NibblesAfDrunkmasturbation_5_0.hkx StaticBottles AnimatedBottle2 
+b -o NibblesAfDrunkmasturbation_6_0 ..\NibblesAdapted\fPos\NibblesAfDrunkmasturbation\NibblesAfDrunkmasturbation_6_0.hkx StaticBottles AnimatedBottle2 
+b -Tn NibblesAfLesbianhaycun_1_0 ..\NibblesAdapted\ffTablePos\NibblesAfLesbianhaycun\NibblesAfLesbianhaycun_1_0.hkx  
+b -Tn NibblesAfLesbianhaycun_2_0 ..\NibblesAdapted\ffTablePos\NibblesAfLesbianhaycun\NibblesAfLesbianhaycun_2_0.hkx  
+b -Tn NibblesAfLesbianhaycun_3_0 ..\NibblesAdapted\ffTablePos\NibblesAfLesbianhaycun\NibblesAfLesbianhaycun_3_0.hkx  
+b -Tn NibblesAfLesbianhaycun_4_0 ..\NibblesAdapted\ffTablePos\NibblesAfLesbianhaycun\NibblesAfLesbianhaycun_4_0.hkx  
+b -Tn NibblesAfLesbianhaycun_5_0 ..\NibblesAdapted\ffTablePos\NibblesAfLesbianhaycun\NibblesAfLesbianhaycun_5_0.hkx  
+b -Tn NibblesAfLesbianhaycun_6_0 ..\NibblesAdapted\ffTablePos\NibblesAfLesbianhaycun\NibblesAfLesbianhaycun_6_0.hkx  
+b -Tn NibblesAfLesbianhaycun_1_1 ..\NibblesAdapted\ffTablePos\NibblesAfLesbianhaycun\NibblesAfLesbianhaycun_1_1.hkx  
+b -Tn NibblesAfLesbianhaycun_2_1 ..\NibblesAdapted\ffTablePos\NibblesAfLesbianhaycun\NibblesAfLesbianhaycun_2_1.hkx  
+b -Tn NibblesAfLesbianhaycun_3_1 ..\NibblesAdapted\ffTablePos\NibblesAfLesbianhaycun\NibblesAfLesbianhaycun_3_1.hkx  
+b -Tn NibblesAfLesbianhaycun_4_1 ..\NibblesAdapted\ffTablePos\NibblesAfLesbianhaycun\NibblesAfLesbianhaycun_4_1.hkx  
+b -Tn NibblesAfLesbianhaycun_5_1 ..\NibblesAdapted\ffTablePos\NibblesAfLesbianhaycun\NibblesAfLesbianhaycun_5_1.hkx  
+b -Tn NibblesAfLesbianhaycun_6_1 ..\NibblesAdapted\ffTablePos\NibblesAfLesbianhaycun\NibblesAfLesbianhaycun_6_1.hkx  
+b -o NibblesAfMimic_1_0 ..\NibblesAdapted\fPos\NibblesAfMimic\NibblesAfMimic_1_0.hkx ChestUpper1 ChestLower1 Tentacle11 
+b -o NibblesAfMimic_2_0 ..\NibblesAdapted\fPos\NibblesAfMimic\NibblesAfMimic_2_0.hkx ChestUpper2 ChestLower2 Tentacle21 
+b -o NibblesAfMimic_3_0 ..\NibblesAdapted\fPos\NibblesAfMimic\NibblesAfMimic_3_0.hkx ChestUpper3 ChestLower3 Tentacle31 Tentacle32 
+b -o NibblesAfMimic_4_0 ..\NibblesAdapted\fPos\NibblesAfMimic\NibblesAfMimic_4_0.hkx ChestUpper4 ChestLower4 Tentacle41 Tentacle42 Tentacle43 
+b -o NibblesAfMimic_5_0 ..\NibblesAdapted\fPos\NibblesAfMimic\NibblesAfMimic_5_0.hkx ChestUpper5 ChestLower5 Tentacle51 Tentacle52 Tentacle53 
+b -Tn NibblesAfSpanking_1_1 ..\NibblesAdapted\fmChairPos\NibblesAfSpanking\NibblesAfSpanking_1_1.hkx  
+b -Tn NibblesAfSpanking_2_1 ..\NibblesAdapted\fmChairPos\NibblesAfSpanking\NibblesAfSpanking_2_1.hkx  
+b -Tn NibblesAfSpanking_3_1 ..\NibblesAdapted\fmChairPos\NibblesAfSpanking\NibblesAfSpanking_3_1.hkx  
+b -Tn NibblesAfSpanking_4_1 ..\NibblesAdapted\fmChairPos\NibblesAfSpanking\NibblesAfSpanking_4_1.hkx  
+b -Tn NibblesAfSpanking_5_1 ..\NibblesAdapted\fmChairPos\NibblesAfSpanking\NibblesAfSpanking_5_1.hkx  
+b -o NibblesAfSpanking_1_0 ..\NibblesAdapted\fmChairPos\NibblesAfSpanking\NibblesAfSpanking_1_0.hkx Paddle01 
+b -o NibblesAfSpanking_2_0 ..\NibblesAdapted\fmChairPos\NibblesAfSpanking\NibblesAfSpanking_2_0.hkx Paddle01 
+b -o NibblesAfSpanking_3_0 ..\NibblesAdapted\fmChairPos\NibblesAfSpanking\NibblesAfSpanking_3_0.hkx Paddle01 
+b -o NibblesAfSpanking_4_0 ..\NibblesAdapted\fmChairPos\NibblesAfSpanking\NibblesAfSpanking_4_0.hkx Paddle01 
+b -o NibblesAfSpanking_5_0 ..\NibblesAdapted\fmChairPos\NibblesAfSpanking\NibblesAfSpanking_5_0.hkx Paddle01 
+b -Tn NibblesAfSpankingchair_1_1 ..\NibblesAdapted\fmChairPos\NibblesAfSpankingchair\NibblesAfSpankingchair_1_1.hkx  
+b -Tn NibblesAfSpankingchair_2_1 ..\NibblesAdapted\fmChairPos\NibblesAfSpankingchair\NibblesAfSpankingchair_2_1.hkx  
+b -Tn NibblesAfSpankingchair_3_1 ..\NibblesAdapted\fmChairPos\NibblesAfSpankingchair\NibblesAfSpankingchair_3_1.hkx  
+b -Tn NibblesAfSpankingchair_4_1 ..\NibblesAdapted\fmChairPos\NibblesAfSpankingchair\NibblesAfSpankingchair_4_1.hkx  
+b -Tn NibblesAfSpankingchair_1_0 ..\NibblesAdapted\fmChairPos\NibblesAfSpankingchair\NibblesAfSpankingchair_1_0.hkx  
+b -Tn NibblesAfSpankingchair_2_0 ..\NibblesAdapted\fmChairPos\NibblesAfSpankingchair\NibblesAfSpankingchair_2_0.hkx  
+b -Tn NibblesAfSpankingchair_3_0 ..\NibblesAdapted\fmChairPos\NibblesAfSpankingchair\NibblesAfSpankingchair_3_0.hkx  
+b -Tn NibblesAfSpankingchair_4_0 ..\NibblesAdapted\fmChairPos\NibblesAfSpankingchair\NibblesAfSpankingchair_4_0.hkx  
+b -Tn NibblesAfTablefuck_1_1 ..\NibblesAdapted\fmBedPos\NibblesAfTablefuck\NibblesAfTablefuck_1_1.hkx  
+b -Tn NibblesAfTablefuck_2_1 ..\NibblesAdapted\fmBedPos\NibblesAfTablefuck\NibblesAfTablefuck_2_1.hkx  
+b -Tn NibblesAfTablefuck_3_1 ..\NibblesAdapted\fmBedPos\NibblesAfTablefuck\NibblesAfTablefuck_3_1.hkx  
+b -Tn NibblesAfTablefuck_4_1 ..\NibblesAdapted\fmBedPos\NibblesAfTablefuck\NibblesAfTablefuck_4_1.hkx  
+b -Tn NibblesAfTablefuck_5_1 ..\NibblesAdapted\fmBedPos\NibblesAfTablefuck\NibblesAfTablefuck_5_1.hkx  
+b -Tn NibblesAfTablefuck_1_0 ..\NibblesAdapted\fmBedPos\NibblesAfTablefuck\NibblesAfTablefuck_1_0.hkx  
+b -Tn NibblesAfTablefuck_2_0 ..\NibblesAdapted\fmBedPos\NibblesAfTablefuck\NibblesAfTablefuck_2_0.hkx  
+b -Tn NibblesAfTablefuck_3_0 ..\NibblesAdapted\fmBedPos\NibblesAfTablefuck\NibblesAfTablefuck_3_0.hkx  
+b -Tn NibblesAfTablefuck_4_0 ..\NibblesAdapted\fmBedPos\NibblesAfTablefuck\NibblesAfTablefuck_4_0.hkx  
+b -Tn NibblesAfTablefuck_5_0 ..\NibblesAdapted\fmBedPos\NibblesAfTablefuck\NibblesAfTablefuck_5_0.hkx  
+b -Tn NibblesAfTablestandingbehind_1_1 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingbehind\NibblesAfTablestandingbehind_1_1.hkx  
+b -Tn NibblesAfTablestandingbehind_2_1 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingbehind\NibblesAfTablestandingbehind_2_1.hkx  
+b -Tn NibblesAfTablestandingbehind_3_1 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingbehind\NibblesAfTablestandingbehind_3_1.hkx  
+b -Tn NibblesAfTablestandingbehind_4_1 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingbehind\NibblesAfTablestandingbehind_4_1.hkx  
+b -Tn NibblesAfTablestandingbehind_5_1 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingbehind\NibblesAfTablestandingbehind_5_1.hkx  
+b -Tn NibblesAfTablestandingbehind_1_0 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingbehind\NibblesAfTablestandingbehind_1_0.hkx  
+b -Tn NibblesAfTablestandingbehind_2_0 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingbehind\NibblesAfTablestandingbehind_2_0.hkx  
+b -Tn NibblesAfTablestandingbehind_3_0 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingbehind\NibblesAfTablestandingbehind_3_0.hkx  
+b -Tn NibblesAfTablestandingbehind_4_0 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingbehind\NibblesAfTablestandingbehind_4_0.hkx  
+b -Tn NibblesAfTablestandingbehind_5_0 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingbehind\NibblesAfTablestandingbehind_5_0.hkx  
+b -Tn NibblesAfTablestandingfront_1_1 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingfront\NibblesAfTablestandingfront_1_1.hkx  
+b -Tn NibblesAfTablestandingfront_2_1 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingfront\NibblesAfTablestandingfront_2_1.hkx  
+b -Tn NibblesAfTablestandingfront_3_1 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingfront\NibblesAfTablestandingfront_3_1.hkx  
+b -Tn NibblesAfTablestandingfront_4_1 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingfront\NibblesAfTablestandingfront_4_1.hkx  
+b -Tn NibblesAfTablestandingfront_5_1 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingfront\NibblesAfTablestandingfront_5_1.hkx  
+b -Tn NibblesAfTablestandingfront_1_0 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingfront\NibblesAfTablestandingfront_1_0.hkx  
+b -Tn NibblesAfTablestandingfront_2_0 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingfront\NibblesAfTablestandingfront_2_0.hkx  
+b -Tn NibblesAfTablestandingfront_3_0 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingfront\NibblesAfTablestandingfront_3_0.hkx  
+b -Tn NibblesAfTablestandingfront_4_0 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingfront\NibblesAfTablestandingfront_4_0.hkx  
+b -Tn NibblesAfTablestandingfront_5_0 ..\NibblesAdapted\fmTablePos\NibblesAfTablestandingfront\NibblesAfTablestandingfront_5_0.hkx  
+b -o NibblesAfTentacledoggy_1_0 ..\NibblesAdapted\fPos\NibblesAfTentacledoggy\NibblesAfTentacledoggy_1_0.hkx NibblesFloraMushroom01Small TentacleDoggy1 
+b -o NibblesAfTentacledoggy_2_0 ..\NibblesAdapted\fPos\NibblesAfTentacledoggy\NibblesAfTentacledoggy_2_0.hkx NibblesFloraMushroom01Small TentacleDoggy2 
+b -o NibblesAfTentacledoggy_3_0 ..\NibblesAdapted\fPos\NibblesAfTentacledoggy\NibblesAfTentacledoggy_3_0.hkx NibblesFloraMushroom01Small TentacleDoggy3 
+b -o NibblesAfTentacledoggy_4_0 ..\NibblesAdapted\fPos\NibblesAfTentacledoggy\NibblesAfTentacledoggy_4_0.hkx NibblesFloraMushroom01Small TentacleDoggy4 
+b -o NibblesAfTentacledoggy_5_0 ..\NibblesAdapted\fPos\NibblesAfTentacledoggy\NibblesAfTentacledoggy_5_0.hkx NibblesFloraMushroom01Small TentacleDoggy5 
+b -Tn NibblesAfWorkbench_1_1 ..\NibblesAdapted\fmTablePos\NibblesAfWorkbench\NibblesAfWorkbench_1_1.hkx  
+b -Tn NibblesAfWorkbench_2_1 ..\NibblesAdapted\fmTablePos\NibblesAfWorkbench\NibblesAfWorkbench_2_1.hkx  
+b -Tn NibblesAfWorkbench_3_1 ..\NibblesAdapted\fmTablePos\NibblesAfWorkbench\NibblesAfWorkbench_3_1.hkx  
+b -Tn NibblesAfWorkbench_4_1 ..\NibblesAdapted\fmTablePos\NibblesAfWorkbench\NibblesAfWorkbench_4_1.hkx  
+b -Tn NibblesAfWorkbench_5_1 ..\NibblesAdapted\fmTablePos\NibblesAfWorkbench\NibblesAfWorkbench_5_1.hkx  
+b -Tn NibblesAfWorkbench_6_1 ..\NibblesAdapted\fmTablePos\NibblesAfWorkbench\NibblesAfWorkbench_6_1.hkx  
+b -Tn NibblesAfWorkbench_1_0 ..\NibblesAdapted\fmTablePos\NibblesAfWorkbench\NibblesAfWorkbench_1_0.hkx  
+b -Tn NibblesAfWorkbench_2_0 ..\NibblesAdapted\fmTablePos\NibblesAfWorkbench\NibblesAfWorkbench_2_0.hkx  
+b -Tn NibblesAfWorkbench_3_0 ..\NibblesAdapted\fmTablePos\NibblesAfWorkbench\NibblesAfWorkbench_3_0.hkx  
+b -Tn NibblesAfWorkbench_4_0 ..\NibblesAdapted\fmTablePos\NibblesAfWorkbench\NibblesAfWorkbench_4_0.hkx  
+b -Tn NibblesAfWorkbench_5_0 ..\NibblesAdapted\fmTablePos\NibblesAfWorkbench\NibblesAfWorkbench_5_0.hkx  
+b -Tn NibblesAfWorkbench_6_0 ..\NibblesAdapted\fmTablePos\NibblesAfWorkbench\NibblesAfWorkbench_6_0.hkx  
