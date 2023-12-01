@@ -1,0 +1,73 @@
+{
+    "name": "Nibbles Smithy Fuck",
+    "modpack": "NibblesAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "NibblesAfWorkbench-6",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/climax"
+        },
+        {
+            "destination": "NibblesAfWorkbench-4",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "NibblesAdaptedFmTableHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "NibblesAfWorkbench_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "autoTransitions": {
+                "climax": "NibblesAfWorkbench-6"
+            }
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "spreadlegs"
+            ],
+            "autoTransitions": {
+                "climax": "NibblesAfWorkbench-6"
+            }
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "nibbles"
+    ],
+    "furniture": "table",
+    "offset": {
+        "y": 30,
+        "r": -90
+    }
+}

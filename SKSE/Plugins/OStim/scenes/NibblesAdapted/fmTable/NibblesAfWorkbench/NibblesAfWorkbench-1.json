@@ -1,0 +1,54 @@
+{
+    "name": "Nibbles Smithy Fuck",
+    "modpack": "NibblesAnimations",
+    "length": 2.7,
+    "destination": "NibblesAfWorkbench-2",
+    "origin": "NibblesAdaptedFmTableHub",
+    "description": "Nibbles Smithy Fuck",
+    "icon": "OStim/sexual/bendover_standing_mf",
+    "speeds": [
+        {
+            "animation": "NibblesAfWorkbench_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover",
+                "facingaway"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "femalemasturbation",
+            "actor": 1
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "transition"
+    ],
+    "furniture": "table",
+    "offset": {
+        "y": 30,
+        "r": -90
+    }
+}

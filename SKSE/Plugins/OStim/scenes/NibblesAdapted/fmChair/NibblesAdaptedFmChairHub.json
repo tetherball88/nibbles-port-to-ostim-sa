@@ -1,0 +1,46 @@
+{
+    "name": "NibblesAdaptedFmChairHub",
+    "modpack": "NibblesAdapted",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStimBench2PSittingStandingMF"
+        }
+    ],
+    "furniture": "chair",
+    "navigations": [
+        {
+            "origin": "OStimChair2PSittingStandingMF",
+            "description": "NibblesAdaptedFmChairHub",
+            "icon": "OStim/nibbles_pack"
+        },
+        {
+            "destination": "OStimChair2PSittingStandingMF",
+            "description": "Return",
+            "icon": "OStim/symbols/return",
+            "priority": -1000
+        }
+    ],
+    "tags": [
+        "idle",
+        "intro"
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "scale": 1.03,
+            "tags": [
+                "sitting"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "noRandomSelection": true
+}

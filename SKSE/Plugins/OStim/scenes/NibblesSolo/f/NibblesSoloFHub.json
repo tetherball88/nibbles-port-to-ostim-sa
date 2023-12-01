@@ -9,11 +9,12 @@
     ],
     "navigations": [
         {
-            "origin": "OStim1PStandingF",
-            "description": "NibblesSoloFHub"
+            "origin": "NibblesFPack",
+            "description": "NibblesSoloFHub",
+            "icon": "OStim/nibbles_pack"
         },
         {
-            "destination": "OStim1PStandingF",
+            "destination": "NibblesFPack",
             "description": "Return",
             "icon": "OStim/symbols/return",
             "priority": -1000

@@ -10,7 +10,8 @@
     "navigations": [
         {
             "origin": "NibblesHumanFmHub",
-            "description": "NibblesHumanPage2"
+            "description": "NibblesHumanPage2",
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "NibblesHumanFmHub",

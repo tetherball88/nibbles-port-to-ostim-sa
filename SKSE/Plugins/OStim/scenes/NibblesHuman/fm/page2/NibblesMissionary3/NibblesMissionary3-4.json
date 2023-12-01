@@ -6,12 +6,12 @@
         {
             "destination": "NibblesMissionary3-5",
             "description": "Next(climax)",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/climax"
         },
         {
             "destination": "NibblesMissionary3-3",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "NibblesHumanPage2",

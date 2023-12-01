@@ -6,12 +6,12 @@
         {
             "origin": "NibblesHumanPage2",
             "description": "Nibbles Missionary 3",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/missionary_mf"
         },
         {
             "destination": "NibblesMissionary3-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "NibblesHumanPage2",

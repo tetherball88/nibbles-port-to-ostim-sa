@@ -1,11 +1,4 @@
 Nemesis_Engine/
-NibblesGroup.zip
-NibblesHuman.zip
-NibblesLesbian.zip
-NibblesSolo.zip
-NibblesObj.zip
-NibblesObjLesbian.zip
-NibblesObjSolo.zip
-NibblesSequences.zip
+*.zip
 fomod/*
 !fomod/fomod

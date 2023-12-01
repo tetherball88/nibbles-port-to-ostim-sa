@@ -1,0 +1,52 @@
+{
+    "name": "Nibbles Spanking (Paddle)",
+    "modpack": "NibblesAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "NibblesSpawnedFurnitureFmHub",
+            "description": "Nibbles Spanking (Paddle)",
+            "icon": "OStim/sexual/spank_left_mf"
+        },
+        {
+            "destination": "NibblesSpanking-2",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
+        },
+        {
+            "destination": "NibblesSpawnedFurnitureFmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "NibblesSpanking_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingfront"
+            ]
+        }
+    ],
+    "actions": [],
+    "noRandomSelection": true,
+    "tags": [
+        "nibbles",
+        "spank"
+    ]
+}

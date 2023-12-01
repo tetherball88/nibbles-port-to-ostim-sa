@@ -6,12 +6,12 @@
         {
             "destination": "NibblesCowgirl5-4",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "NibblesCowgirl5-2",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "NibblesHumanPage1",

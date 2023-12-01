@@ -1,0 +1,38 @@
+{
+    "name": "NibblesAdaptedFChairHub",
+    "modpack": "NibblesAdapted",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStimBench1PSittingF"
+        }
+    ],
+    "furniture": "chair",
+    "navigations": [
+        {
+            "origin": "OStimChair1PSittingF",
+            "description": "NibblesAdaptedFChairHub",
+            "icon": "OStim/nibbles_pack"
+        },
+        {
+            "destination": "OStimChair1PSittingF",
+            "description": "Return",
+            "icon": "OStim/symbols/return",
+            "priority": -1000
+        }
+    ],
+    "tags": [
+        "idle",
+        "intro"
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "tags": [
+                "sitting"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "noRandomSelection": true
+}

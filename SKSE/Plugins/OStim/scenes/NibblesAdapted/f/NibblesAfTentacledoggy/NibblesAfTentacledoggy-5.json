@@ -1,0 +1,33 @@
+{
+    "name": "Nibbles Tentacle Doggystyle",
+    "modpack": "NibblesAnimations",
+    "length": 5.2,
+    "destination": "NibblesAfTentacledoggy-4",
+    "speeds": [
+        {
+            "animation": "NibblesAfTentacledoggy_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "mdildovaginal",
+            "actor": 0
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "nibbles",
+        "transition"
+    ]
+}

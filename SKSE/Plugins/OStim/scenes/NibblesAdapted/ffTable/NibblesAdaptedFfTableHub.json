@@ -1,0 +1,46 @@
+{
+    "name": "NibblesAdaptedFfTableHub",
+    "modpack": "NibblesAdapted",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStimTable2PStandingLeaningFF"
+        }
+    ],
+    "furniture": "table",
+    "navigations": [
+        {
+            "origin": "OStimTable2PStandingLeaningFF",
+            "description": "NibblesAdaptedFfTableHub",
+            "icon": "OStim/nibbles_pack"
+        },
+        {
+            "destination": "OStimTable2PStandingLeaningFF",
+            "description": "Return",
+            "icon": "OStim/symbols/return",
+            "priority": -1000
+        }
+    ],
+    "tags": [
+        "idle",
+        "intro"
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "noRandomSelection": true
+}

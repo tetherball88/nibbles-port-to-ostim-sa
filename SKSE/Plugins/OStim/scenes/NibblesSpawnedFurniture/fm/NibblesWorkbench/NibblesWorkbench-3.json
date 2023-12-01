@@ -1,0 +1,44 @@
+{
+    "name": "Nibbles Smithy Fuck",
+    "modpack": "NibblesAnimations",
+    "length": 13,
+    "destination": "NibblesWorkbench-4",
+    "speeds": [
+        {
+            "animation": "NibblesWorkbench_3"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover",
+                "facingaway"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "nibbles",
+        "transition"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Nibbles Chair Dildo",
+    "modpack": "NibblesAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "NibblesAdaptedFChairHub",
+            "description": "Nibbles Chair Dildo",
+            "icon": "OStim/sexual/strapon_insert_vert"
+        },
+        {
+            "destination": "NibblesAfChairdildo-2",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
+        },
+        {
+            "destination": "NibblesAdaptedFChairHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "NibblesAfChairdildo_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "mdildovaginal",
+            "actor": 0
+        }
+    ],
+    "tags": [
+        "nibbles"
+    ],
+    "furniture": "chair"
+}

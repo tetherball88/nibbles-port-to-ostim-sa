@@ -6,12 +6,12 @@
         {
             "origin": "NibblesHumanPage1",
             "description": "Nibbles Belly Flop 2",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/prone_mf"
         },
         {
             "destination": "NibblesBellyflop2-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "NibblesHumanPage1",

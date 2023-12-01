@@ -9,11 +9,12 @@
     ],
     "navigations": [
         {
-            "origin": "OStim2PStandingCloseFF",
-            "description": "NibblesLesbianFfHub"
+            "origin": "NibblesFfPack",
+            "description": "NibblesLesbianFfHub",
+            "icon": "OStim/nibbles_pack"
         },
         {
-            "destination": "OStim2PStandingCloseFF",
+            "destination": "NibblesFfPack",
             "description": "Return",
             "icon": "OStim/symbols/return",
             "priority": -1000

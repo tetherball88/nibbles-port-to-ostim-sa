@@ -1,0 +1,71 @@
+{
+    "name": "Nibbles Table Fuck",
+    "modpack": "NibblesAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "NibblesAdaptedFmBedHub",
+            "description": "Nibbles Table Fuck",
+            "icon": "OStim/sexual/table/missionary_mf"
+        },
+        {
+            "destination": "NibblesAfTablefuck-2",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
+        },
+        {
+            "destination": "NibblesAdaptedFmBedHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "NibblesAfTablefuck_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "kissing",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghand",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghead",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "nibbles"
+    ],
+    "furniture": "bed",
+    "offset": {
+        "z": -44
+    }
+}

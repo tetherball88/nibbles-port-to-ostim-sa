@@ -1,0 +1,33 @@
+{
+    "name": "Nibbles Chair Dildo",
+    "modpack": "NibblesAnimations",
+    "length": 12,
+    "destination": "NibblesAfChairdildo-4",
+    "speeds": [
+        {
+            "animation": "NibblesAfChairdildo_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "mdildovaginal",
+            "actor": 0
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "transition"
+    ],
+    "furniture": "chair"
+}

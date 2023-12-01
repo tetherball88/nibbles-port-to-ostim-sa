@@ -1,0 +1,44 @@
+{
+    "name": "NibblesFfPack",
+    "modpack": "Nibbles",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStim2PStandingCloseFF"
+        }
+    ],
+    "navigations": [
+        {
+            "origin": "OStim2PStandingCloseFF",
+            "description": "NibblesFfPack",
+            "icon": "OStim/nibbles_pack"
+        },
+        {
+            "destination": "OStim2PStandingCloseFF",
+            "description": "Return",
+            "icon": "OStim/symbols/return",
+            "priority": -1000
+        }
+    ],
+    "tags": [
+        "idle",
+        "intro"
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "noRandomSelection": true
+}

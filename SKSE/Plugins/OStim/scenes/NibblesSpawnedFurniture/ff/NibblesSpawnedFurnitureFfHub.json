@@ -1,0 +1,44 @@
+{
+    "name": "NibblesSpawnedFurnitureFfHub",
+    "modpack": "NibblesSpawnedFurniture",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStim2PStandingCloseFF"
+        }
+    ],
+    "navigations": [
+        {
+            "origin": "NibblesFfPack",
+            "description": "NibblesSpawnedFurnitureFfHub",
+            "icon": "OStim/nibbles_pack"
+        },
+        {
+            "destination": "NibblesFfPack",
+            "description": "Return",
+            "icon": "OStim/symbols/return",
+            "priority": -1000
+        }
+    ],
+    "tags": [
+        "idle",
+        "intro"
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "noRandomSelection": true
+}

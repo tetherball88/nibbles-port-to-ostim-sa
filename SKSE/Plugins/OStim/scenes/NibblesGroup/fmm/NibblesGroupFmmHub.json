@@ -10,7 +10,8 @@
     "navigations": [
         {
             "origin": "OStim3PStandingMMF",
-            "description": "NibblesGroupFmmHub"
+            "description": "NibblesGroupFmmHub",
+            "icon": "OStim/nibbles_pack"
         },
         {
             "destination": "OStim3PStandingMMF",

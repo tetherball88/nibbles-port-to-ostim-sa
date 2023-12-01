@@ -6,12 +6,12 @@
         {
             "destination": "NibblesStandingfuck4-5",
             "description": "Next(climax)",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/climax"
         },
         {
             "destination": "NibblesStandingfuck4-3",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "NibblesHumanPage2",

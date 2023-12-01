@@ -1,0 +1,54 @@
+{
+    "name": "Nibbles Drunk Masturbation",
+    "modpack": "NibblesAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "NibblesAfDrunkmasturbation-6",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/climax"
+        },
+        {
+            "destination": "NibblesAfDrunkmasturbation-4",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "NibblesAdaptedFHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "NibblesAfDrunkmasturbation_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingfront"
+            ],
+            "autoTransitions": {
+                "climax": "NibblesAfDrunkmasturbation-6"
+            }
+        }
+    ],
+    "actions": [
+        {
+            "type": "femalemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "mdildoanal",
+            "actor": 0
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "nibbles"
+    ]
+}

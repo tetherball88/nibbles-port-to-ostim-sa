@@ -1,0 +1,49 @@
+{
+    "name": "NibblesAdaptedFmBedHub",
+    "modpack": "NibblesAdapted",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStim2PBothLyingMF"
+        }
+    ],
+    "furniture": "bed",
+    "navigations": [
+        {
+            "origin": "OStim2PBothLyingMF",
+            "description": "NibblesAdaptedFmBedHub",
+            "icon": "OStim/nibbles_pack"
+        },
+        {
+            "destination": "OStim2PBothLyingMF",
+            "description": "Return",
+            "icon": "OStim/symbols/return",
+            "priority": -1000
+        }
+    ],
+    "tags": [
+        "idle",
+        "intro"
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 9,
+            "scale": 1.03,
+            "lookLeft": 50,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "lookLeft": -50,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "noRandomSelection": true
+}
