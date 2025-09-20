@@ -1,0 +1,90 @@
+{
+    "name": "Nibbles Lesbian Threesome (FFF)",
+    "modpack": "NibblesAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "NibblesLesbianthreesome-5",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/climax"
+        },
+        {
+            "destination": "NibblesLesbianthreesome-3SwappedM0-F1",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "NibblesLesbianFffHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "NibblesLesbianthreesome-4SwappedM0-F2",
+            "description": "Rotate females",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "NibblesLesbianthreesome_4"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingside"
+            ],
+            "autoTransitions": {
+                "climax": "NibblesLesbianthreesome-5"
+            },
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingside"
+            ],
+            "autoTransitions": {
+                "climax": "NibblesLesbianthreesome-5"
+            },
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingside"
+            ],
+            "autoTransitions": {
+                "climax": "NibblesLesbianthreesome-5"
+            },
+            "animationIndex": 1
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "lickingvagina",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "lickingvagina",
+            "actor": 2,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "nibbles"
+    ]
+}

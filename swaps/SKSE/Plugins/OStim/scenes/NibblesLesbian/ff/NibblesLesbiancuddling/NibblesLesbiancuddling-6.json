@@ -1,0 +1,49 @@
+{
+    "name": "Nibbles Lesbian Cuddling",
+    "modpack": "NibblesAnimations",
+    "length": 6.4,
+    "destination": "NibblesLesbiancuddling-5",
+    "speeds": [
+        {
+            "animation": "NibblesLesbiancuddling_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "onbottom",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingfront",
+                "ontop",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "tribbing",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "transition"
+    ]
+}

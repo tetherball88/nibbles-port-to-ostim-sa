@@ -1,0 +1,74 @@
+{
+    "name": "Nibbles Lesbian Cuddling",
+    "modpack": "NibblesAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "NibblesLesbiancuddling-3SwappedM0-F1",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
+        },
+        {
+            "destination": "NibblesLesbiancuddling-1SwappedM0-F1",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "NibblesLesbianFfHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "NibblesLesbiancuddling-2",
+            "description": "Rotate females",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "NibblesLesbiancuddling_2"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingfront",
+                "ontop"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ],
+            "animationIndex": 0
+        }
+    ],
+    "actions": [
+        {
+            "type": "gropingbutt",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "kissing",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "hug",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "nibbles"
+    ]
+}

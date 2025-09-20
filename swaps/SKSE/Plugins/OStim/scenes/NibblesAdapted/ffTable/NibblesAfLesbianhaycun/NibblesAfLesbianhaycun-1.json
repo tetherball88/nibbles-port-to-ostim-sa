@@ -1,0 +1,66 @@
+{
+    "name": "Nibbles Lesbian Haybale Cunnilingus",
+    "modpack": "NibblesAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "NibblesAdaptedFfTableHub",
+            "description": "Nibbles Lesbian Haybale Cunnilingus",
+            "icon": "OStim/sexual/cunnilingus_ff"
+        },
+        {
+            "destination": "NibblesAfLesbianhaycun-2",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
+        },
+        {
+            "destination": "NibblesAdaptedFfTableHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "NibblesAfLesbianhaycun-1SwappedM0-F1",
+            "description": "Rotate females",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "NibblesAfLesbianhaycun_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "sitting"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "nibbles"
+    ],
+    "furniture": "table",
+    "offset": {
+        "y": 45,
+        "z": 8,
+        "r": 180
+    }
+}

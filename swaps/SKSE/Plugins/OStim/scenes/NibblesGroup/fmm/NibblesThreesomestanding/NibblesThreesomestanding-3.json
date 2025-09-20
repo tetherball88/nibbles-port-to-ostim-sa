@@ -1,0 +1,91 @@
+{
+    "name": "Nibbles Threesome Standing (MMF)",
+    "modpack": "NibblesAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "NibblesThreesomestanding-4",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
+        },
+        {
+            "destination": "NibblesThreesomestanding-2",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "NibblesGroupFmmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "NibblesThreesomestanding-3SwappedM1-F0",
+            "description": "Rotate males",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "NibblesThreesomestanding_3"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "suspended"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "analsex",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "holdingbody",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "hug",
+            "actor": 2,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "dp"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Nibbles Lesbian Threesome (FFF)",
+    "modpack": "NibblesAnimations",
+    "length": 3.466667,
+    "destination": "NibblesLesbianthreesome-4SwappedM0-F1",
+    "speeds": [
+        {
+            "animation": "NibblesLesbianthreesome_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingside",
+                "climaxing"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingside",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingside",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "lickingvagina",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "lickingvagina",
+            "actor": 2,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "transition"
+    ]
+}

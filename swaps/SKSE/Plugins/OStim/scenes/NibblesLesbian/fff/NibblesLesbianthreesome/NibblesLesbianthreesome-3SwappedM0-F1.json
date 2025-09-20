@@ -1,0 +1,80 @@
+{
+    "name": "Nibbles Lesbian Threesome (FFF)",
+    "modpack": "NibblesAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "NibblesLesbianthreesome-4SwappedM0-F1",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
+        },
+        {
+            "destination": "NibblesLesbianthreesome-2SwappedM0-F1",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "NibblesLesbianFffHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "NibblesLesbianthreesome-3SwappedM0-F2",
+            "description": "Rotate females",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "NibblesLesbianthreesome_3"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingside"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours"
+            ],
+            "animationIndex": 1
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "femalemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "lickingvagina",
+            "actor": 2,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "nibbles"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Nibbles Threesome Standing (MMF)",
+    "modpack": "NibblesAnimations",
+    "length": 5.333333,
+    "destination": "NibblesThreesomestanding-4",
+    "speeds": [
+        {
+            "animation": "NibblesThreesomestanding_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "suspended",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "analsex",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "hug",
+            "actor": 1,
+            "target": 2
+        }
+    ],
+    "tags": [
+        "nibbles",
+        "dp",
+        "transition"
+    ]
+}
